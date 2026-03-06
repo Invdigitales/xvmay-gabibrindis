@@ -14,7 +14,7 @@
 }
  
 .parrafo1{
- width: 80%;
+ width: 90%;
  display: block;
   margin: 0 auto;
   margin-top: -1240%;
@@ -693,7 +693,7 @@ margin-top: -10%;
 
 .rsvp-form input[type="text"] {
   width: 80%;
-  background: rgb(242, 245, 174); 
+  background: rgb(243, 246, 194); 
   border: none;
   border-bottom: 1px solidrgb(143, 140, 140)2;
   padding: 8px 0;
