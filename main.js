@@ -72,7 +72,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '',
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340.2506706825093!2d-62.847381799999994!3d-33.1550454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95cecb459bc6e78f%3A0xc17bef39b078b40a!2sClub%20de%20tiro%20Laborde!5e0!3m2!1ses!2sar!4v1773067636965!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
         
         
     })
@@ -101,7 +101,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3147.0646111938745!2d-57.761958!3d-37.928920999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95852efde2df4f1f%3A0x9a2af04341877482!2sLa%20Victoriana!5e0!3m2!1ses!2sar!4v1758125963480!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340.2506706825093!2d-62.847381799999994!3d-33.1550454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95cecb459bc6e78f%3A0xc17bef39b078b40a!2sClub%20de%20tiro%20Laborde!5e0!3m2!1ses!2sar!4v1773067636965!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
     })
   });
   
